@@ -1,5 +1,6 @@
+<img src="https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/s960x960/145358299_1349247448767185_2742901667034115731_o.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=oI0R51JuwHcAX8_M18n&_nc_ht=scontent.fhyd2-1.fna&tp=7&oh=8f202152becc5e102578e9418f7c8735&oe=603F7736" align="center" height="500" width="1000">
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Razzak</h1>
-<h3 align="center">A passionate Hacker</h3>
+<h3 align="center">A Curious Hacker</h3>
 
 - 🌱 I’m currently learning **Data Science, Artificial Intelligence, Hacking, Cybersecurity**
 
@@ -19,3 +20,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+<img src='https://github-readme-stats.vercel.app/api?username=marazzax&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919'>
