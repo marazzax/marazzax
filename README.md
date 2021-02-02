@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Razzak</h1>
 <h3 align="center">A Random Hacker</h3>
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marazzax&label=Profile%20views&color=0e75b6&style=flat" alt="marazzax" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marazzax&label=Profile%20views&color=129e00&style=plastic" alt="marazzax" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/06b20f4657b8e5d227074709f6e73b78/tenor.gif?itemid=20202201">
 <!-- <img align="right" alt="Coding" width="400" src="https://gifyu.com/image/UfXJ"> -->
 <!-- <div class="tenor-gif-embed" data-postid="20202201" data-share-method="host" data-width="100%" data-aspect-ratio="1.3351206434316354"><a href="https://tenor.com/view/gif-20202201">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
