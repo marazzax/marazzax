@@ -9,6 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/06b20f4657b8e5d227074709f6e73b78/tenor.gif?itemid=20202201">
 <!-- <img align="right" alt="Coding" width="400" src="https://gifyu.com/image/UfXJ"> -->
 <!-- <div class="tenor-gif-embed" data-postid="20202201" data-share-method="host" data-width="100%" data-aspect-ratio="1.3351206434316354"><a href="https://tenor.com/view/gif-20202201">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
+<br>
 
 - 🌱 I’m currently learning **Data Science, Artificial Intelligence, Hacking, Cybersecurity**
 
