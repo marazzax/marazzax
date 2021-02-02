@@ -1,4 +1,5 @@
-<img src="https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/s960x960/145358299_1349247448767185_2742901667034115731_o.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=oI0R51JuwHcAX8_M18n&_nc_ht=scontent.fhyd2-1.fna&tp=7&oh=8f202152becc5e102578e9418f7c8735&oe=603F7736" align="center" height="500" width="1000">
+<a href="https://ibb.co/zbs7kQW"><img src="https://i.ibb.co/Qn9C5p7/The-way-to-get-started-is-to-quit-talking-and-begin-doing.png" alt="The-way-to-get-started-is-to-quit-talking-and-begin-doing" border="0" align="center"></a>
+
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Razzak</h1>
 <h3 align="center">A Curious Hacker</h3>
 
