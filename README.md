@@ -11,11 +11,11 @@
 <!-- <div class="tenor-gif-embed" data-postid="20202201" data-share-method="host" data-width="100%" data-aspect-ratio="1.3351206434316354"><a href="https://tenor.com/view/gif-20202201">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
 
 
-- 🌱 I’m currently learning **Data Science, Artificial Intelligence, Hacking, Cybersecurity**
+- 🌱 I’m currently learning **Ethical Hacking, Cybersecurity, Digital Forensics, Incident Response, Malware Analysis**
 
 - 💬 Ask me about **Hacking, Cybersecurity, python**
 
-- 📫 How to reach me **marazzaxhack@protonmail.com**
+- 📫 How to reach me **marazzax@gmail.com**
 
 - ⚡ Fun fact **I'm not 18 yet**
 
